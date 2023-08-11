@@ -1,0 +1,15 @@
+ const embed = new Discord.EmbedBuilder()
+        .setTitle(`-`)
+            .setDescription(`
+            Rareza: **-** 
+            Rings de inicio máximos: **-**
+            Puntos totales de estadísticas: **-**
+
+            Velocidad: **-/10** 
+            -
+            Aceleración: **-/10**
+            -
+            Fuerza: **-/10**
+            -`)
+            .setThumbnail("Personaje")
+            .setColor("Rareza")
