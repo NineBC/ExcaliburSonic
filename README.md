@@ -6,53 +6,43 @@ Bot Excalibur es el bot ideal de toda la información de Sonic Forces Speed Batt
 
 # Revisa la información principal de los personajes de Sonic Forces.
 
-<img width="<im613" alt="Captura de Pantalla 2023-07-08 a la(s) 8 18 06" src="https://github.com/xmapaxe/Excalibur-Sonic/assets/127620141/eccc3681-ed2c-4ab5-800e-0b91bf54110b">
 
-• Mira a detalle sus estadísticas.
-Velocidad, Aceleración y Fuerza.
+<img width="641" alt="Screen Shot 2023-08-10 at 8 36 53 p m" src="https://github.com/NineBC/Excalibur-Sonic/assets/127620141/ce5363fc-0013-4198-ad00-0d495c59a962">
 
-<img width="617" alt="Captura de Pantalla 2023-07-08 a la(s) 8 22 53" src="https://github.com/xmapaxe/Excalibur-Sonic/assets/127620141/748e7eb9-2e92-4f18-adab-3473f892f772">
+• La información de sus habilidades en un botón dónde sólo tú podrás ver el texto, sin molestar a los demás.
+
+<img width="259" alt="Screen Shot 2023-08-10 at 8 38 39 p m" src="https://github.com/NineBC/Excalibur-Sonic/assets/127620141/f0832fe9-0ec3-4a81-afec-397af7472b02">
+
 
 • Toda la información de los ataques de estos bien detalla en un solo paquete.
 Incluye consejos de estos mismos descubiertos por los mismos jugadores.
 
-<img width="615" alt="Captura de Pantalla 2023-07-08 a la(s) 8 24 51" src="https://github.com/xmapaxe/Excalibur-Sonic/assets/127620141/1fbec771-1899-4ac5-ae32-35b109677319">
+<img width="557" alt="Screen Shot 2023-08-10 at 8 41 23 p m" src="https://github.com/NineBC/Excalibur-Sonic/assets/127620141/560fee9f-2fe9-4d2a-b2b0-37fba4a3143a">
+<img width="608" alt="Screen Shot 2023-08-10 at 8 41 35 p m" src="https://github.com/NineBC/Excalibur-Sonic/assets/127620141/1bc69087-2532-4286-ba44-fa894c55f993">
+<img width="429" alt="Screen Shot 2023-08-10 at 8 41 47 p m" src="https://github.com/NineBC/Excalibur-Sonic/assets/127620141/56d84b09-dafb-4200-80cb-3b9b1043e956">
 
-• Banners de los personajes incluidos.
+# Banners de los personajes incluidos.
 Son parte del juego y se han ido dando a través del paso de los años.
 Gracias a la comunidad por haber mantenido estos en pie aún.
 
 <img width="615" alt="Captura de Pantalla 2023-07-08 a la(s) 8 30 47" src="https://github.com/xmapaxe/Excalibur-Sonic/assets/127620141/a98b8b0b-906d-4e60-953d-2eb959762db1">
 
-# Moderación
-• Excalibur Sonic también está para apoyarte en la moderación, demos un breve repaso:
+Solo escribe ! y tu personaje o pingea al bot y escribe tu personaje.
 
-# Patadas, Aislamientos, Advertencias, entre otros comandos de moderación básicos.
-•Puedes hacer Kick, incluyendo un opcional motivo.
+<img width="472" alt="Screen Shot 2023-08-10 at 8 42 53 p m" src="https://github.com/NineBC/Excalibur-Sonic/assets/127620141/8cb604df-5854-4c0a-b499-876634b95698">
 
-<img width="568" alt="Captura de Pantalla 2023-07-08 a la(s) 8 38 15" src="https://github.com/xmapaxe/Excalibur-Sonic/assets/127620141/6bc01af6-4923-4eeb-b8d8-d9f04d96bd2b">
+# Runner report - Informe del corredor
 
-• Puedes hacer Aislamientos, incluyendo un opcional motivo.
+Esto ha sido completamente olvidado por HARDlight. Sin embargo, Excalibur está aquí para ayudarte con eso.
 
-<img width="303" alt="Captura de Pantalla 2023-07-08 a la(s) 8 42 19" src="https://github.com/xmapaxe/Excalibur-Sonic/assets/127620141/fc4a7d6b-0e7c-4ac1-b6f5-b487b9764897">
+<img width="501" alt="Screen Shot 2023-08-10 at 8 50 39 p m" src="https://github.com/NineBC/Excalibur-Sonic/assets/127620141/54ece691-c7f4-4bf4-abdc-4b9119262dea">
 
-# No te preocupes, no podrán usar estos comandos sin los permisos de moderador/administrador otorgados.
-
-<img width="433" alt="Captura de Pantalla 2023-07-08 a la(s) 8 34 24" src="https://github.com/xmapaxe/Excalibur-Sonic/assets/127620141/6fc33fb5-c9e0-47aa-aa33-9a9d89699bdb">
-
-# Herramientas y entrenimiento.
-•Puedes hacer cosas divertidas, como probar suerte con algún personaje al azar.
-
-<img width="436" alt="Captura de Pantalla 2023-07-08 a la(s) 8 48 30" src="https://github.com/xmapaxe/Excalibur-Sonic/assets/127620141/41f86a54-8e14-4993-901a-91bcfe07e585">
-
-• Puedes buscar información útil, como los miembros de un servidor.
-
-<img width="432" alt="Captura de Pantalla 2023-07-08 a la(s) 8 50 15" src="https://github.com/xmapaxe/Excalibur-Sonic/assets/127620141/27441fcf-e577-48fb-a0c1-5a4c1c1ed76c">
+<img width="505" alt="Screen Shot 2023-08-10 at 8 52 33 p m" src="https://github.com/NineBC/Excalibur-Sonic/assets/127620141/db1b34f3-61f3-45ad-a068-d9a7574733a6">
 
 # Acerca DE
+Sonic Excalibur, cubre todo lo relacionado a Sonic Forces Speed Battle, aunque también cuenta con comandos para moderar, así como algunos de entretenimiento.
+Todo lo que necesitas en un solo lugar, Excalibur te cubre.
 
-**Excalibur Sonic** fue creado con el propósito de muchas cosas, especialmente Sonic Forces. Gracias a todos por su apoyo que le dan al bot. lo agradezco mucho.
-¿Qué esperas? ¡Aumenta la diversión con Excalibur!
+Soporte: https://discord.gg/3HpbQtq8EK
 
-<img width="955" alt="Captura de Pantalla 2023-07-08 a la(s) 8 52 11" src="https://github.com/xmapaxe/Excalibur-Sonic/assets/127620141/de243e7f-25a2-4473-ad1f-fbe4a097ef74">
-
+<img width="955" alt="Screen Shot 2023-08-10 at 8 55 57 p m" src="https://github.com/NineBC/Excalibur-Sonic/assets/127620141/f6a8022d-0a75-4e71-bb94-d904cce020d8">
