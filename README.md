@@ -1,5 +1,6 @@
  # Excalibur-Sonic
 Bot Excalibur es el bot ideal de toda la información de Sonic Forces Speed Battle. ¿Quieres saber la información de los ataques de Silver con farolillo? ¿Cuánto dura la superforma a su máximo nivel? ó quizás... ¿Quieres moderar un poco tu servidor? Excalibur está aquí para ti.
+Servidor oficial: https://discord.gg/f2tTzRqa2n
 
 # Vista Previa
  **Excalibur Sonic**, cubre todo lo relacionado a Sonic Forces Speed Battle, aunque también cuenta con algunos comandos  para moderar.
@@ -43,6 +44,7 @@ Esto ha sido completamente olvidado por HARDlight. Sin embargo, Excalibur está 
 Sonic Excalibur, cubre todo lo relacionado a Sonic Forces Speed Battle, aunque también cuenta con comandos para moderar, así como algunos de entretenimiento.
 Todo lo que necesitas en un solo lugar, Excalibur te cubre.
 
+Servidor oficial: https://discord.gg/f2tTzRqa2n
 Soporte: https://discord.gg/3HpbQtq8EK
 
 <img width="955" alt="Screen Shot 2023-08-10 at 8 55 57 p m" src="https://github.com/NineBC/Excalibur-Sonic/assets/127620141/f6a8022d-0a75-4e71-bb94-d904cce020d8">
