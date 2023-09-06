@@ -1,0 +1,8 @@
+const button = new Discord.ActionRowBuilder()
+            .addComponents(
+                new Discord.ButtonBuilder()
+                    .setCustomId('button')
+                    .setLabel('Habilidades de Amy')
+                    .setEmoji('<:Lighting:1138867195665989652>')
+                    .setStyle(Discord.ButtonStyle.Secondary)
+                    .setDisabled(false)
